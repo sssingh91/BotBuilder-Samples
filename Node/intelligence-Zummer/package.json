@@ -10,7 +10,7 @@
     "botbuilder": "^3.13.1",
     "dotenv-extended": "^1.0.4",
     "memory-cache": "^0.1.6",
-    "restify": "^4.3.0",
+    "restify": "^8.1.0",
     "url": "^0.11.0"
   }
 }
