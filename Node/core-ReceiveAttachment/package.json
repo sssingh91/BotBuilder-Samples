@@ -26,6 +26,6 @@
     "dotenv-extended": "^1.0.4",
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
-    "restify": "^4.3.0"
+    "restify": "^8.1.0"
   }
 }
