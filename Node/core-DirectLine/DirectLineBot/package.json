@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Bot Builder Sample - DirectLine Sample - Bot",
   "scripts": {
-    "start": "node app.js"
+    "start": "node app.js",
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
   },
   "author": "Microsoft Corp.",
   "license": "MIT",
@@ -23,6 +25,8 @@
   "dependencies": {
     "botbuilder": "^3.13.1",
     "dotenv-extended": "^1.0.4",
-    "restify": "^4.3.0"
-  }
+    "restify": "^4.3.0",
+    "snyk": "^1.316.1"
+  },
+  "snyk": true
 }
