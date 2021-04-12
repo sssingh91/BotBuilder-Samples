@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/MicrosoftDX/botFramework-proactiveMessages#readme",
   "dependencies": {
-    "botbuilder": "^3.13.1",
+    "botbuilder": "^4.0.6",
     "restify": "^4.3.0"
   }
 }
