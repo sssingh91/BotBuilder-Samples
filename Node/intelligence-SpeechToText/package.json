@@ -23,10 +23,10 @@
   "dependencies": {
     "botbuilder": "^3.13.1",
     "dotenv-extended": "^1.0.4",
-    "needle": "^1.4.3",
+    "needle": "^2.3.0",
     "node-uuid": "^1.4.7",
     "request": "^2.79.0",
-    "restify": "^4.3.0",
+    "restify": "^8.1.0",
     "url": "^0.11.0"
   }
 }
