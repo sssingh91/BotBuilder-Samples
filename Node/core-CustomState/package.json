@@ -24,6 +24,6 @@
     "botbuilder": "^3.13.1",
     "botbuilder-azure": "^3.0.4",
     "dotenv-extended": "^1.0.4",
-    "restify": "^4.3.0"
+    "restify": "^8.1.0"
   }
 }
