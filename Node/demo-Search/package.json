@@ -22,12 +22,12 @@
   },
   "dependencies": {
     "bluebird": "^3.4.7",
-    "botbuilder": "^3.13.1",
+    "botbuilder": "^4.0.6",
     "dotenv-extended": "^1.0.4",
     "lodash": "^4.17.4",
     "lorem-ipsum": "^1.0.3",
     "request": "^2.79.0",
-    "restify": "^4.3.0",
+    "restify": "^10.0.0",
     "uuid": "^3.0.1"
   }
 }
