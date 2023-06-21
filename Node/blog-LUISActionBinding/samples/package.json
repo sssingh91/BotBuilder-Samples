@@ -5,13 +5,13 @@
   "author": "Microsoft Corp.",
   "license": "MIT",
   "dependencies": {
-    "botbuilder": "^3.13.1",
+    "botbuilder": "^4.0.6",
     "dotenv-extended": "^1.0.4",
     "jsonpath": "^0.2.10",
     "lodash": "^4.17.4",
     "request": "^2.79.0",
     "request-promise": "^4.1.1",
-    "restify": "^4.3.0",
+    "restify": "^10.0.0",
     "schema-inspector": "^1.6.8"
   }
 }
