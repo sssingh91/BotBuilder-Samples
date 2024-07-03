@@ -22,9 +22,9 @@
   },
   "dependencies": {
     "bluebird": "^3.4.7",
-    "botbuilder": "^3.13.1",
+    "botbuilder": "^4.0.6",
     "dotenv-extended": "^1.0.4",
     "restify": "^4.3.0",
-    "swagger-client": "^2.1.26"
+    "swagger-client": "^3.0.1"
   }
 }
